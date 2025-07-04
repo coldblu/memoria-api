@@ -1,0 +1,16 @@
+{
+    "ONTOLOGY_FILE_NAME": "exemplo_ontologia.ttl",
+    "RDF_BASE_URI": "http://example.org/patrimonio/",
+    "ITEM_CLASS": "pc:ObraCultural",
+    "TITLE_PROPERTY": "pc:temTitulo",
+    "AUTHOR_PROPERTY": "pc:temAutor",
+    "DESCRIPTION_PROPERTY": "dcterms:description",
+    "PREFIXES": {
+        "pc": "http://example.org/patrimonio/ontology#",
+        "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "owl": "http://www.w3.org/2002/07/owl#",
+        "dcterms": "http://purl.org/dc/terms/",
+        "foaf": "http://xmlns.com/foaf/0.1/"
+    }
+}

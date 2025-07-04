@@ -1,0 +1,13 @@
+fastapi~=0.115.14
+uvicorn[standard]~=0.34.3
+python-multipart
+requests~=2.32.4
+PyYAML
+pytesseract~=0.3.13
+spacy~=3.8.7
+rdflib~=7.1.4
+PyMuPDF~=1.24.1  # Adicionar esta linha
+pillow~=11.2.1
+status~=0.2.5
+pydantic~=2.11.7
+requests
